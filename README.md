@@ -4,4 +4,4 @@ A collection of Microsoft Power BI Reports and Images
 
 # Built with
 
-- Microsoft Power BI Desktop
+- Microsoft Power BI 
